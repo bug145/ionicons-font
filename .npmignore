@@ -5,5 +5,4 @@ node_modules
 bin
 utils
 *.lock
-*.json
 package.json

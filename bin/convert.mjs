@@ -7,7 +7,7 @@ import {
   categorizeFiles,
   fixIcons,
 } from '../utils/helpers.mjs';
-import { flow, forEach } from 'lodash-es';
+import { flow, forEach, map } from 'lodash-es';
 import { readdirSync } from 'fs';
 
 const iconsDir = flow(
@@ -24,7 +24,9 @@ await categorizeFiles(resolve(tempDir, 'all'));
 const distDir = resolve(import.meta.dirname, '../dist');
 createDir(distDir);
 
-forEach(readdirSync(tempDir), async (topic) => {
+for await (const topic of readdirSync(tempDir)) {
+  console.log(topic);
+  
   let fontName = 'ionicons';
   if (topic !== 'all') {
     fontName = fontName + '-' + topic;
@@ -48,4 +50,4 @@ forEach(readdirSync(tempDir), async (topic) => {
   };
 
   await svgtofont(svg2fontOptions);
-});
+};
