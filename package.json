@@ -1,6 +1,6 @@
 {
   "name": "ionicons-font",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use ionicons as font",
   "main": "dist/all/ionicons.css",
   "scripts": {

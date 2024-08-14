@@ -1,0 +1,8 @@
+_temp
+.vscode
+node_modules
+.gitignore
+bin
+utils
+*.lock
+*.json
