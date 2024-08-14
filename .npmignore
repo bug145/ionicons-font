@@ -6,3 +6,4 @@ bin
 utils
 *.lock
 *.json
+package.json
