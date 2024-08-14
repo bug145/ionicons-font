@@ -1,0 +1,28 @@
+{
+  "name": "ionicons-font",
+  "version": "1.0.0",
+  "description": "Use ionicons as font",
+  "main": "assets/all/ionicons.css",
+  "scripts": {
+    "convert": "node --experimental-specifier-resolution=node bin/convert.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ionicons",
+    "font",
+    "ttf",
+    "svg"
+  ],
+  "author": "Bagdaulet",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "3.12.0",
+    "consola": "3.2.3",
+    "fs-extra": "11.2.0",
+    "ionicons": "7.4.0",
+    "lodash-es": "4.17.21",
+    "oslllo-svg-fixer": "5.0.0",
+    "svgtofont": "5.0.3"
+  },
+  "devDependencies": {}
+}

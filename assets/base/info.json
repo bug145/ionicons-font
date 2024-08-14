@@ -1,0 +1,2528 @@
+{
+  "accessibility-sharp": {
+    "encodedCode": "\\ea01",
+    "prefix": "ion",
+    "className": "ion-accessibility-sharp",
+    "unicode": "&#59905;"
+  },
+  "add-circle-sharp": {
+    "encodedCode": "\\ea02",
+    "prefix": "ion",
+    "className": "ion-add-circle-sharp",
+    "unicode": "&#59906;"
+  },
+  "add-sharp": {
+    "encodedCode": "\\ea03",
+    "prefix": "ion",
+    "className": "ion-add-sharp",
+    "unicode": "&#59907;"
+  },
+  "airplane-sharp": {
+    "encodedCode": "\\ea04",
+    "prefix": "ion",
+    "className": "ion-airplane-sharp",
+    "unicode": "&#59908;"
+  },
+  "alarm-sharp": {
+    "encodedCode": "\\ea05",
+    "prefix": "ion",
+    "className": "ion-alarm-sharp",
+    "unicode": "&#59909;"
+  },
+  "albums-sharp": {
+    "encodedCode": "\\ea06",
+    "prefix": "ion",
+    "className": "ion-albums-sharp",
+    "unicode": "&#59910;"
+  },
+  "alert-circle-sharp": {
+    "encodedCode": "\\ea07",
+    "prefix": "ion",
+    "className": "ion-alert-circle-sharp",
+    "unicode": "&#59911;"
+  },
+  "alert-sharp": {
+    "encodedCode": "\\ea08",
+    "prefix": "ion",
+    "className": "ion-alert-sharp",
+    "unicode": "&#59912;"
+  },
+  "american-football-sharp": {
+    "encodedCode": "\\ea09",
+    "prefix": "ion",
+    "className": "ion-american-football-sharp",
+    "unicode": "&#59913;"
+  },
+  "analytics-sharp": {
+    "encodedCode": "\\ea0a",
+    "prefix": "ion",
+    "className": "ion-analytics-sharp",
+    "unicode": "&#59914;"
+  },
+  "aperture-sharp": {
+    "encodedCode": "\\ea0b",
+    "prefix": "ion",
+    "className": "ion-aperture-sharp",
+    "unicode": "&#59915;"
+  },
+  "apps-sharp": {
+    "encodedCode": "\\ea0c",
+    "prefix": "ion",
+    "className": "ion-apps-sharp",
+    "unicode": "&#59916;"
+  },
+  "archive-sharp": {
+    "encodedCode": "\\ea0d",
+    "prefix": "ion",
+    "className": "ion-archive-sharp",
+    "unicode": "&#59917;"
+  },
+  "arrow-back-circle-sharp": {
+    "encodedCode": "\\ea0e",
+    "prefix": "ion",
+    "className": "ion-arrow-back-circle-sharp",
+    "unicode": "&#59918;"
+  },
+  "arrow-back-sharp": {
+    "encodedCode": "\\ea0f",
+    "prefix": "ion",
+    "className": "ion-arrow-back-sharp",
+    "unicode": "&#59919;"
+  },
+  "arrow-down-circle-sharp": {
+    "encodedCode": "\\ea10",
+    "prefix": "ion",
+    "className": "ion-arrow-down-circle-sharp",
+    "unicode": "&#59920;"
+  },
+  "arrow-down-left-box-sharp": {
+    "encodedCode": "\\ea11",
+    "prefix": "ion",
+    "className": "ion-arrow-down-left-box-sharp",
+    "unicode": "&#59921;"
+  },
+  "arrow-down-right-box-sharp": {
+    "encodedCode": "\\ea12",
+    "prefix": "ion",
+    "className": "ion-arrow-down-right-box-sharp",
+    "unicode": "&#59922;"
+  },
+  "arrow-down-sharp": {
+    "encodedCode": "\\ea13",
+    "prefix": "ion",
+    "className": "ion-arrow-down-sharp",
+    "unicode": "&#59923;"
+  },
+  "arrow-forward-circle-sharp": {
+    "encodedCode": "\\ea14",
+    "prefix": "ion",
+    "className": "ion-arrow-forward-circle-sharp",
+    "unicode": "&#59924;"
+  },
+  "arrow-forward-sharp": {
+    "encodedCode": "\\ea15",
+    "prefix": "ion",
+    "className": "ion-arrow-forward-sharp",
+    "unicode": "&#59925;"
+  },
+  "arrow-redo-circle-sharp": {
+    "encodedCode": "\\ea16",
+    "prefix": "ion",
+    "className": "ion-arrow-redo-circle-sharp",
+    "unicode": "&#59926;"
+  },
+  "arrow-redo-sharp": {
+    "encodedCode": "\\ea17",
+    "prefix": "ion",
+    "className": "ion-arrow-redo-sharp",
+    "unicode": "&#59927;"
+  },
+  "arrow-undo-circle-sharp": {
+    "encodedCode": "\\ea18",
+    "prefix": "ion",
+    "className": "ion-arrow-undo-circle-sharp",
+    "unicode": "&#59928;"
+  },
+  "arrow-undo-sharp": {
+    "encodedCode": "\\ea19",
+    "prefix": "ion",
+    "className": "ion-arrow-undo-sharp",
+    "unicode": "&#59929;"
+  },
+  "arrow-up-circle-sharp": {
+    "encodedCode": "\\ea1a",
+    "prefix": "ion",
+    "className": "ion-arrow-up-circle-sharp",
+    "unicode": "&#59930;"
+  },
+  "arrow-up-left-box-sharp": {
+    "encodedCode": "\\ea1b",
+    "prefix": "ion",
+    "className": "ion-arrow-up-left-box-sharp",
+    "unicode": "&#59931;"
+  },
+  "arrow-up-right-box-sharp": {
+    "encodedCode": "\\ea1c",
+    "prefix": "ion",
+    "className": "ion-arrow-up-right-box-sharp",
+    "unicode": "&#59932;"
+  },
+  "arrow-up-sharp": {
+    "encodedCode": "\\ea1d",
+    "prefix": "ion",
+    "className": "ion-arrow-up-sharp",
+    "unicode": "&#59933;"
+  },
+  "at-circle-sharp": {
+    "encodedCode": "\\ea1e",
+    "prefix": "ion",
+    "className": "ion-at-circle-sharp",
+    "unicode": "&#59934;"
+  },
+  "at-sharp": {
+    "encodedCode": "\\ea1f",
+    "prefix": "ion",
+    "className": "ion-at-sharp",
+    "unicode": "&#59935;"
+  },
+  "attach-sharp": {
+    "encodedCode": "\\ea20",
+    "prefix": "ion",
+    "className": "ion-attach-sharp",
+    "unicode": "&#59936;"
+  },
+  "backspace-sharp": {
+    "encodedCode": "\\ea21",
+    "prefix": "ion",
+    "className": "ion-backspace-sharp",
+    "unicode": "&#59937;"
+  },
+  "bag-add-sharp": {
+    "encodedCode": "\\ea22",
+    "prefix": "ion",
+    "className": "ion-bag-add-sharp",
+    "unicode": "&#59938;"
+  },
+  "bag-check-sharp": {
+    "encodedCode": "\\ea23",
+    "prefix": "ion",
+    "className": "ion-bag-check-sharp",
+    "unicode": "&#59939;"
+  },
+  "bag-handle-sharp": {
+    "encodedCode": "\\ea24",
+    "prefix": "ion",
+    "className": "ion-bag-handle-sharp",
+    "unicode": "&#59940;"
+  },
+  "bag-remove-sharp": {
+    "encodedCode": "\\ea25",
+    "prefix": "ion",
+    "className": "ion-bag-remove-sharp",
+    "unicode": "&#59941;"
+  },
+  "bag-sharp": {
+    "encodedCode": "\\ea26",
+    "prefix": "ion",
+    "className": "ion-bag-sharp",
+    "unicode": "&#59942;"
+  },
+  "balloon-sharp": {
+    "encodedCode": "\\ea27",
+    "prefix": "ion",
+    "className": "ion-balloon-sharp",
+    "unicode": "&#59943;"
+  },
+  "ban-sharp": {
+    "encodedCode": "\\ea28",
+    "prefix": "ion",
+    "className": "ion-ban-sharp",
+    "unicode": "&#59944;"
+  },
+  "bandage-sharp": {
+    "encodedCode": "\\ea29",
+    "prefix": "ion",
+    "className": "ion-bandage-sharp",
+    "unicode": "&#59945;"
+  },
+  "bar-chart-sharp": {
+    "encodedCode": "\\ea2a",
+    "prefix": "ion",
+    "className": "ion-bar-chart-sharp",
+    "unicode": "&#59946;"
+  },
+  "barbell-sharp": {
+    "encodedCode": "\\ea2b",
+    "prefix": "ion",
+    "className": "ion-barbell-sharp",
+    "unicode": "&#59947;"
+  },
+  "barcode-sharp": {
+    "encodedCode": "\\ea2c",
+    "prefix": "ion",
+    "className": "ion-barcode-sharp",
+    "unicode": "&#59948;"
+  },
+  "baseball-sharp": {
+    "encodedCode": "\\ea2d",
+    "prefix": "ion",
+    "className": "ion-baseball-sharp",
+    "unicode": "&#59949;"
+  },
+  "basket-sharp": {
+    "encodedCode": "\\ea2e",
+    "prefix": "ion",
+    "className": "ion-basket-sharp",
+    "unicode": "&#59950;"
+  },
+  "basketball-sharp": {
+    "encodedCode": "\\ea2f",
+    "prefix": "ion",
+    "className": "ion-basketball-sharp",
+    "unicode": "&#59951;"
+  },
+  "battery-charging-sharp": {
+    "encodedCode": "\\ea30",
+    "prefix": "ion",
+    "className": "ion-battery-charging-sharp",
+    "unicode": "&#59952;"
+  },
+  "battery-dead-sharp": {
+    "encodedCode": "\\ea31",
+    "prefix": "ion",
+    "className": "ion-battery-dead-sharp",
+    "unicode": "&#59953;"
+  },
+  "battery-full-sharp": {
+    "encodedCode": "\\ea32",
+    "prefix": "ion",
+    "className": "ion-battery-full-sharp",
+    "unicode": "&#59954;"
+  },
+  "battery-half-sharp": {
+    "encodedCode": "\\ea33",
+    "prefix": "ion",
+    "className": "ion-battery-half-sharp",
+    "unicode": "&#59955;"
+  },
+  "beaker-sharp": {
+    "encodedCode": "\\ea34",
+    "prefix": "ion",
+    "className": "ion-beaker-sharp",
+    "unicode": "&#59956;"
+  },
+  "bed-sharp": {
+    "encodedCode": "\\ea35",
+    "prefix": "ion",
+    "className": "ion-bed-sharp",
+    "unicode": "&#59957;"
+  },
+  "beer-sharp": {
+    "encodedCode": "\\ea36",
+    "prefix": "ion",
+    "className": "ion-beer-sharp",
+    "unicode": "&#59958;"
+  },
+  "bicycle-sharp": {
+    "encodedCode": "\\ea37",
+    "prefix": "ion",
+    "className": "ion-bicycle-sharp",
+    "unicode": "&#59959;"
+  },
+  "binoculars-sharp": {
+    "encodedCode": "\\ea38",
+    "prefix": "ion",
+    "className": "ion-binoculars-sharp",
+    "unicode": "&#59960;"
+  },
+  "bluetooth-sharp": {
+    "encodedCode": "\\ea39",
+    "prefix": "ion",
+    "className": "ion-bluetooth-sharp",
+    "unicode": "&#59961;"
+  },
+  "boat-sharp": {
+    "encodedCode": "\\ea3a",
+    "prefix": "ion",
+    "className": "ion-boat-sharp",
+    "unicode": "&#59962;"
+  },
+  "body-sharp": {
+    "encodedCode": "\\ea3b",
+    "prefix": "ion",
+    "className": "ion-body-sharp",
+    "unicode": "&#59963;"
+  },
+  "bonfire-sharp": {
+    "encodedCode": "\\ea3c",
+    "prefix": "ion",
+    "className": "ion-bonfire-sharp",
+    "unicode": "&#59964;"
+  },
+  "book-sharp": {
+    "encodedCode": "\\ea3d",
+    "prefix": "ion",
+    "className": "ion-book-sharp",
+    "unicode": "&#59965;"
+  },
+  "bookmark-sharp": {
+    "encodedCode": "\\ea3e",
+    "prefix": "ion",
+    "className": "ion-bookmark-sharp",
+    "unicode": "&#59966;"
+  },
+  "bookmarks-sharp": {
+    "encodedCode": "\\ea3f",
+    "prefix": "ion",
+    "className": "ion-bookmarks-sharp",
+    "unicode": "&#59967;"
+  },
+  "bowling-ball-sharp": {
+    "encodedCode": "\\ea40",
+    "prefix": "ion",
+    "className": "ion-bowling-ball-sharp",
+    "unicode": "&#59968;"
+  },
+  "briefcase-sharp": {
+    "encodedCode": "\\ea41",
+    "prefix": "ion",
+    "className": "ion-briefcase-sharp",
+    "unicode": "&#59969;"
+  },
+  "browsers-sharp": {
+    "encodedCode": "\\ea42",
+    "prefix": "ion",
+    "className": "ion-browsers-sharp",
+    "unicode": "&#59970;"
+  },
+  "brush-sharp": {
+    "encodedCode": "\\ea43",
+    "prefix": "ion",
+    "className": "ion-brush-sharp",
+    "unicode": "&#59971;"
+  },
+  "bug-sharp": {
+    "encodedCode": "\\ea44",
+    "prefix": "ion",
+    "className": "ion-bug-sharp",
+    "unicode": "&#59972;"
+  },
+  "build-sharp": {
+    "encodedCode": "\\ea45",
+    "prefix": "ion",
+    "className": "ion-build-sharp",
+    "unicode": "&#59973;"
+  },
+  "bulb-sharp": {
+    "encodedCode": "\\ea46",
+    "prefix": "ion",
+    "className": "ion-bulb-sharp",
+    "unicode": "&#59974;"
+  },
+  "bus-sharp": {
+    "encodedCode": "\\ea47",
+    "prefix": "ion",
+    "className": "ion-bus-sharp",
+    "unicode": "&#59975;"
+  },
+  "business-sharp": {
+    "encodedCode": "\\ea48",
+    "prefix": "ion",
+    "className": "ion-business-sharp",
+    "unicode": "&#59976;"
+  },
+  "cafe-sharp": {
+    "encodedCode": "\\ea49",
+    "prefix": "ion",
+    "className": "ion-cafe-sharp",
+    "unicode": "&#59977;"
+  },
+  "calculator-sharp": {
+    "encodedCode": "\\ea4a",
+    "prefix": "ion",
+    "className": "ion-calculator-sharp",
+    "unicode": "&#59978;"
+  },
+  "calendar-clear-sharp": {
+    "encodedCode": "\\ea4b",
+    "prefix": "ion",
+    "className": "ion-calendar-clear-sharp",
+    "unicode": "&#59979;"
+  },
+  "calendar-number-sharp": {
+    "encodedCode": "\\ea4c",
+    "prefix": "ion",
+    "className": "ion-calendar-number-sharp",
+    "unicode": "&#59980;"
+  },
+  "calendar-sharp": {
+    "encodedCode": "\\ea4d",
+    "prefix": "ion",
+    "className": "ion-calendar-sharp",
+    "unicode": "&#59981;"
+  },
+  "call-sharp": {
+    "encodedCode": "\\ea4e",
+    "prefix": "ion",
+    "className": "ion-call-sharp",
+    "unicode": "&#59982;"
+  },
+  "camera-reverse-sharp": {
+    "encodedCode": "\\ea4f",
+    "prefix": "ion",
+    "className": "ion-camera-reverse-sharp",
+    "unicode": "&#59983;"
+  },
+  "camera-sharp": {
+    "encodedCode": "\\ea50",
+    "prefix": "ion",
+    "className": "ion-camera-sharp",
+    "unicode": "&#59984;"
+  },
+  "car-sharp": {
+    "encodedCode": "\\ea51",
+    "prefix": "ion",
+    "className": "ion-car-sharp",
+    "unicode": "&#59985;"
+  },
+  "car-sport-sharp": {
+    "encodedCode": "\\ea52",
+    "prefix": "ion",
+    "className": "ion-car-sport-sharp",
+    "unicode": "&#59986;"
+  },
+  "card-sharp": {
+    "encodedCode": "\\ea53",
+    "prefix": "ion",
+    "className": "ion-card-sharp",
+    "unicode": "&#59987;"
+  },
+  "caret-back-circle-sharp": {
+    "encodedCode": "\\ea54",
+    "prefix": "ion",
+    "className": "ion-caret-back-circle-sharp",
+    "unicode": "&#59988;"
+  },
+  "caret-back-sharp": {
+    "encodedCode": "\\ea55",
+    "prefix": "ion",
+    "className": "ion-caret-back-sharp",
+    "unicode": "&#59989;"
+  },
+  "caret-down-circle-sharp": {
+    "encodedCode": "\\ea56",
+    "prefix": "ion",
+    "className": "ion-caret-down-circle-sharp",
+    "unicode": "&#59990;"
+  },
+  "caret-down-sharp": {
+    "encodedCode": "\\ea57",
+    "prefix": "ion",
+    "className": "ion-caret-down-sharp",
+    "unicode": "&#59991;"
+  },
+  "caret-forward-circle-sharp": {
+    "encodedCode": "\\ea58",
+    "prefix": "ion",
+    "className": "ion-caret-forward-circle-sharp",
+    "unicode": "&#59992;"
+  },
+  "caret-forward-sharp": {
+    "encodedCode": "\\ea59",
+    "prefix": "ion",
+    "className": "ion-caret-forward-sharp",
+    "unicode": "&#59993;"
+  },
+  "caret-up-circle-sharp": {
+    "encodedCode": "\\ea5a",
+    "prefix": "ion",
+    "className": "ion-caret-up-circle-sharp",
+    "unicode": "&#59994;"
+  },
+  "caret-up-sharp": {
+    "encodedCode": "\\ea5b",
+    "prefix": "ion",
+    "className": "ion-caret-up-sharp",
+    "unicode": "&#59995;"
+  },
+  "cart-sharp": {
+    "encodedCode": "\\ea5c",
+    "prefix": "ion",
+    "className": "ion-cart-sharp",
+    "unicode": "&#59996;"
+  },
+  "cash-sharp": {
+    "encodedCode": "\\ea5d",
+    "prefix": "ion",
+    "className": "ion-cash-sharp",
+    "unicode": "&#59997;"
+  },
+  "cellular-sharp": {
+    "encodedCode": "\\ea5e",
+    "prefix": "ion",
+    "className": "ion-cellular-sharp",
+    "unicode": "&#59998;"
+  },
+  "chatbox-ellipses-sharp": {
+    "encodedCode": "\\ea5f",
+    "prefix": "ion",
+    "className": "ion-chatbox-ellipses-sharp",
+    "unicode": "&#59999;"
+  },
+  "chatbox-sharp": {
+    "encodedCode": "\\ea60",
+    "prefix": "ion",
+    "className": "ion-chatbox-sharp",
+    "unicode": "&#60000;"
+  },
+  "chatbubble-ellipses-sharp": {
+    "encodedCode": "\\ea61",
+    "prefix": "ion",
+    "className": "ion-chatbubble-ellipses-sharp",
+    "unicode": "&#60001;"
+  },
+  "chatbubble-sharp": {
+    "encodedCode": "\\ea62",
+    "prefix": "ion",
+    "className": "ion-chatbubble-sharp",
+    "unicode": "&#60002;"
+  },
+  "chatbubbles-sharp": {
+    "encodedCode": "\\ea63",
+    "prefix": "ion",
+    "className": "ion-chatbubbles-sharp",
+    "unicode": "&#60003;"
+  },
+  "checkbox-sharp": {
+    "encodedCode": "\\ea64",
+    "prefix": "ion",
+    "className": "ion-checkbox-sharp",
+    "unicode": "&#60004;"
+  },
+  "checkmark-circle-sharp": {
+    "encodedCode": "\\ea65",
+    "prefix": "ion",
+    "className": "ion-checkmark-circle-sharp",
+    "unicode": "&#60005;"
+  },
+  "checkmark-done-circle-sharp": {
+    "encodedCode": "\\ea66",
+    "prefix": "ion",
+    "className": "ion-checkmark-done-circle-sharp",
+    "unicode": "&#60006;"
+  },
+  "checkmark-done-sharp": {
+    "encodedCode": "\\ea67",
+    "prefix": "ion",
+    "className": "ion-checkmark-done-sharp",
+    "unicode": "&#60007;"
+  },
+  "checkmark-sharp": {
+    "encodedCode": "\\ea68",
+    "prefix": "ion",
+    "className": "ion-checkmark-sharp",
+    "unicode": "&#60008;"
+  },
+  "chevron-back-circle-sharp": {
+    "encodedCode": "\\ea69",
+    "prefix": "ion",
+    "className": "ion-chevron-back-circle-sharp",
+    "unicode": "&#60009;"
+  },
+  "chevron-back-sharp": {
+    "encodedCode": "\\ea6a",
+    "prefix": "ion",
+    "className": "ion-chevron-back-sharp",
+    "unicode": "&#60010;"
+  },
+  "chevron-collapse-sharp": {
+    "encodedCode": "\\ea6b",
+    "prefix": "ion",
+    "className": "ion-chevron-collapse-sharp",
+    "unicode": "&#60011;"
+  },
+  "chevron-down-circle-sharp": {
+    "encodedCode": "\\ea6c",
+    "prefix": "ion",
+    "className": "ion-chevron-down-circle-sharp",
+    "unicode": "&#60012;"
+  },
+  "chevron-down-sharp": {
+    "encodedCode": "\\ea6d",
+    "prefix": "ion",
+    "className": "ion-chevron-down-sharp",
+    "unicode": "&#60013;"
+  },
+  "chevron-expand-sharp": {
+    "encodedCode": "\\ea6e",
+    "prefix": "ion",
+    "className": "ion-chevron-expand-sharp",
+    "unicode": "&#60014;"
+  },
+  "chevron-forward-circle-sharp": {
+    "encodedCode": "\\ea6f",
+    "prefix": "ion",
+    "className": "ion-chevron-forward-circle-sharp",
+    "unicode": "&#60015;"
+  },
+  "chevron-forward-sharp": {
+    "encodedCode": "\\ea70",
+    "prefix": "ion",
+    "className": "ion-chevron-forward-sharp",
+    "unicode": "&#60016;"
+  },
+  "chevron-up-circle-sharp": {
+    "encodedCode": "\\ea71",
+    "prefix": "ion",
+    "className": "ion-chevron-up-circle-sharp",
+    "unicode": "&#60017;"
+  },
+  "chevron-up-sharp": {
+    "encodedCode": "\\ea72",
+    "prefix": "ion",
+    "className": "ion-chevron-up-sharp",
+    "unicode": "&#60018;"
+  },
+  "clipboard-sharp": {
+    "encodedCode": "\\ea73",
+    "prefix": "ion",
+    "className": "ion-clipboard-sharp",
+    "unicode": "&#60019;"
+  },
+  "close-circle-sharp": {
+    "encodedCode": "\\ea74",
+    "prefix": "ion",
+    "className": "ion-close-circle-sharp",
+    "unicode": "&#60020;"
+  },
+  "close-sharp": {
+    "encodedCode": "\\ea75",
+    "prefix": "ion",
+    "className": "ion-close-sharp",
+    "unicode": "&#60021;"
+  },
+  "cloud-circle-sharp": {
+    "encodedCode": "\\ea76",
+    "prefix": "ion",
+    "className": "ion-cloud-circle-sharp",
+    "unicode": "&#60022;"
+  },
+  "cloud-done-sharp": {
+    "encodedCode": "\\ea77",
+    "prefix": "ion",
+    "className": "ion-cloud-done-sharp",
+    "unicode": "&#60023;"
+  },
+  "cloud-download-sharp": {
+    "encodedCode": "\\ea78",
+    "prefix": "ion",
+    "className": "ion-cloud-download-sharp",
+    "unicode": "&#60024;"
+  },
+  "cloud-offline-sharp": {
+    "encodedCode": "\\ea79",
+    "prefix": "ion",
+    "className": "ion-cloud-offline-sharp",
+    "unicode": "&#60025;"
+  },
+  "cloud-sharp": {
+    "encodedCode": "\\ea7a",
+    "prefix": "ion",
+    "className": "ion-cloud-sharp",
+    "unicode": "&#60026;"
+  },
+  "cloud-upload-sharp": {
+    "encodedCode": "\\ea7b",
+    "prefix": "ion",
+    "className": "ion-cloud-upload-sharp",
+    "unicode": "&#60027;"
+  },
+  "cloudy-night-sharp": {
+    "encodedCode": "\\ea7c",
+    "prefix": "ion",
+    "className": "ion-cloudy-night-sharp",
+    "unicode": "&#60028;"
+  },
+  "cloudy-sharp": {
+    "encodedCode": "\\ea7d",
+    "prefix": "ion",
+    "className": "ion-cloudy-sharp",
+    "unicode": "&#60029;"
+  },
+  "code-download-sharp": {
+    "encodedCode": "\\ea7e",
+    "prefix": "ion",
+    "className": "ion-code-download-sharp",
+    "unicode": "&#60030;"
+  },
+  "code-sharp": {
+    "encodedCode": "\\ea7f",
+    "prefix": "ion",
+    "className": "ion-code-sharp",
+    "unicode": "&#60031;"
+  },
+  "code-slash-sharp": {
+    "encodedCode": "\\ea80",
+    "prefix": "ion",
+    "className": "ion-code-slash-sharp",
+    "unicode": "&#60032;"
+  },
+  "code-working-sharp": {
+    "encodedCode": "\\ea81",
+    "prefix": "ion",
+    "className": "ion-code-working-sharp",
+    "unicode": "&#60033;"
+  },
+  "cog-sharp": {
+    "encodedCode": "\\ea82",
+    "prefix": "ion",
+    "className": "ion-cog-sharp",
+    "unicode": "&#60034;"
+  },
+  "color-fill-sharp": {
+    "encodedCode": "\\ea83",
+    "prefix": "ion",
+    "className": "ion-color-fill-sharp",
+    "unicode": "&#60035;"
+  },
+  "color-filter-sharp": {
+    "encodedCode": "\\ea84",
+    "prefix": "ion",
+    "className": "ion-color-filter-sharp",
+    "unicode": "&#60036;"
+  },
+  "color-palette-sharp": {
+    "encodedCode": "\\ea85",
+    "prefix": "ion",
+    "className": "ion-color-palette-sharp",
+    "unicode": "&#60037;"
+  },
+  "color-wand-sharp": {
+    "encodedCode": "\\ea86",
+    "prefix": "ion",
+    "className": "ion-color-wand-sharp",
+    "unicode": "&#60038;"
+  },
+  "compass-sharp": {
+    "encodedCode": "\\ea87",
+    "prefix": "ion",
+    "className": "ion-compass-sharp",
+    "unicode": "&#60039;"
+  },
+  "construct-sharp": {
+    "encodedCode": "\\ea88",
+    "prefix": "ion",
+    "className": "ion-construct-sharp",
+    "unicode": "&#60040;"
+  },
+  "contract-sharp": {
+    "encodedCode": "\\ea89",
+    "prefix": "ion",
+    "className": "ion-contract-sharp",
+    "unicode": "&#60041;"
+  },
+  "contrast-sharp": {
+    "encodedCode": "\\ea8a",
+    "prefix": "ion",
+    "className": "ion-contrast-sharp",
+    "unicode": "&#60042;"
+  },
+  "copy-sharp": {
+    "encodedCode": "\\ea8b",
+    "prefix": "ion",
+    "className": "ion-copy-sharp",
+    "unicode": "&#60043;"
+  },
+  "create-sharp": {
+    "encodedCode": "\\ea8c",
+    "prefix": "ion",
+    "className": "ion-create-sharp",
+    "unicode": "&#60044;"
+  },
+  "crop-sharp": {
+    "encodedCode": "\\ea8d",
+    "prefix": "ion",
+    "className": "ion-crop-sharp",
+    "unicode": "&#60045;"
+  },
+  "cube-sharp": {
+    "encodedCode": "\\ea8e",
+    "prefix": "ion",
+    "className": "ion-cube-sharp",
+    "unicode": "&#60046;"
+  },
+  "cut-sharp": {
+    "encodedCode": "\\ea8f",
+    "prefix": "ion",
+    "className": "ion-cut-sharp",
+    "unicode": "&#60047;"
+  },
+  "desktop-sharp": {
+    "encodedCode": "\\ea90",
+    "prefix": "ion",
+    "className": "ion-desktop-sharp",
+    "unicode": "&#60048;"
+  },
+  "diamond-sharp": {
+    "encodedCode": "\\ea91",
+    "prefix": "ion",
+    "className": "ion-diamond-sharp",
+    "unicode": "&#60049;"
+  },
+  "dice-sharp": {
+    "encodedCode": "\\ea92",
+    "prefix": "ion",
+    "className": "ion-dice-sharp",
+    "unicode": "&#60050;"
+  },
+  "disc-sharp": {
+    "encodedCode": "\\ea93",
+    "prefix": "ion",
+    "className": "ion-disc-sharp",
+    "unicode": "&#60051;"
+  },
+  "document-attach-sharp": {
+    "encodedCode": "\\ea94",
+    "prefix": "ion",
+    "className": "ion-document-attach-sharp",
+    "unicode": "&#60052;"
+  },
+  "document-lock-sharp": {
+    "encodedCode": "\\ea95",
+    "prefix": "ion",
+    "className": "ion-document-lock-sharp",
+    "unicode": "&#60053;"
+  },
+  "document-sharp": {
+    "encodedCode": "\\ea96",
+    "prefix": "ion",
+    "className": "ion-document-sharp",
+    "unicode": "&#60054;"
+  },
+  "document-text-sharp": {
+    "encodedCode": "\\ea97",
+    "prefix": "ion",
+    "className": "ion-document-text-sharp",
+    "unicode": "&#60055;"
+  },
+  "documents-sharp": {
+    "encodedCode": "\\ea98",
+    "prefix": "ion",
+    "className": "ion-documents-sharp",
+    "unicode": "&#60056;"
+  },
+  "download-sharp": {
+    "encodedCode": "\\ea99",
+    "prefix": "ion",
+    "className": "ion-download-sharp",
+    "unicode": "&#60057;"
+  },
+  "duplicate-sharp": {
+    "encodedCode": "\\ea9a",
+    "prefix": "ion",
+    "className": "ion-duplicate-sharp",
+    "unicode": "&#60058;"
+  },
+  "ear-sharp": {
+    "encodedCode": "\\ea9b",
+    "prefix": "ion",
+    "className": "ion-ear-sharp",
+    "unicode": "&#60059;"
+  },
+  "earth-sharp": {
+    "encodedCode": "\\ea9c",
+    "prefix": "ion",
+    "className": "ion-earth-sharp",
+    "unicode": "&#60060;"
+  },
+  "easel-sharp": {
+    "encodedCode": "\\ea9d",
+    "prefix": "ion",
+    "className": "ion-easel-sharp",
+    "unicode": "&#60061;"
+  },
+  "egg-sharp": {
+    "encodedCode": "\\ea9e",
+    "prefix": "ion",
+    "className": "ion-egg-sharp",
+    "unicode": "&#60062;"
+  },
+  "ellipse-sharp": {
+    "encodedCode": "\\ea9f",
+    "prefix": "ion",
+    "className": "ion-ellipse-sharp",
+    "unicode": "&#60063;"
+  },
+  "ellipsis-horizontal-circle-sharp": {
+    "encodedCode": "\\eaa0",
+    "prefix": "ion",
+    "className": "ion-ellipsis-horizontal-circle-sharp",
+    "unicode": "&#60064;"
+  },
+  "ellipsis-horizontal-sharp": {
+    "encodedCode": "\\eaa1",
+    "prefix": "ion",
+    "className": "ion-ellipsis-horizontal-sharp",
+    "unicode": "&#60065;"
+  },
+  "ellipsis-vertical-circle-sharp": {
+    "encodedCode": "\\eaa2",
+    "prefix": "ion",
+    "className": "ion-ellipsis-vertical-circle-sharp",
+    "unicode": "&#60066;"
+  },
+  "ellipsis-vertical-sharp": {
+    "encodedCode": "\\eaa3",
+    "prefix": "ion",
+    "className": "ion-ellipsis-vertical-sharp",
+    "unicode": "&#60067;"
+  },
+  "enter-sharp": {
+    "encodedCode": "\\eaa4",
+    "prefix": "ion",
+    "className": "ion-enter-sharp",
+    "unicode": "&#60068;"
+  },
+  "exit-sharp": {
+    "encodedCode": "\\eaa5",
+    "prefix": "ion",
+    "className": "ion-exit-sharp",
+    "unicode": "&#60069;"
+  },
+  "expand-sharp": {
+    "encodedCode": "\\eaa6",
+    "prefix": "ion",
+    "className": "ion-expand-sharp",
+    "unicode": "&#60070;"
+  },
+  "extension-puzzle-sharp": {
+    "encodedCode": "\\eaa7",
+    "prefix": "ion",
+    "className": "ion-extension-puzzle-sharp",
+    "unicode": "&#60071;"
+  },
+  "eye-off-sharp": {
+    "encodedCode": "\\eaa8",
+    "prefix": "ion",
+    "className": "ion-eye-off-sharp",
+    "unicode": "&#60072;"
+  },
+  "eye-sharp": {
+    "encodedCode": "\\eaa9",
+    "prefix": "ion",
+    "className": "ion-eye-sharp",
+    "unicode": "&#60073;"
+  },
+  "eyedrop-sharp": {
+    "encodedCode": "\\eaaa",
+    "prefix": "ion",
+    "className": "ion-eyedrop-sharp",
+    "unicode": "&#60074;"
+  },
+  "fast-food-sharp": {
+    "encodedCode": "\\eaab",
+    "prefix": "ion",
+    "className": "ion-fast-food-sharp",
+    "unicode": "&#60075;"
+  },
+  "female-sharp": {
+    "encodedCode": "\\eaac",
+    "prefix": "ion",
+    "className": "ion-female-sharp",
+    "unicode": "&#60076;"
+  },
+  "file-tray-full-sharp": {
+    "encodedCode": "\\eaad",
+    "prefix": "ion",
+    "className": "ion-file-tray-full-sharp",
+    "unicode": "&#60077;"
+  },
+  "file-tray-sharp": {
+    "encodedCode": "\\eaae",
+    "prefix": "ion",
+    "className": "ion-file-tray-sharp",
+    "unicode": "&#60078;"
+  },
+  "file-tray-stacked-sharp": {
+    "encodedCode": "\\eaaf",
+    "prefix": "ion",
+    "className": "ion-file-tray-stacked-sharp",
+    "unicode": "&#60079;"
+  },
+  "film-sharp": {
+    "encodedCode": "\\eab0",
+    "prefix": "ion",
+    "className": "ion-film-sharp",
+    "unicode": "&#60080;"
+  },
+  "filter-circle-sharp": {
+    "encodedCode": "\\eab1",
+    "prefix": "ion",
+    "className": "ion-filter-circle-sharp",
+    "unicode": "&#60081;"
+  },
+  "filter-sharp": {
+    "encodedCode": "\\eab2",
+    "prefix": "ion",
+    "className": "ion-filter-sharp",
+    "unicode": "&#60082;"
+  },
+  "finger-print-sharp": {
+    "encodedCode": "\\eab3",
+    "prefix": "ion",
+    "className": "ion-finger-print-sharp",
+    "unicode": "&#60083;"
+  },
+  "fish-sharp": {
+    "encodedCode": "\\eab4",
+    "prefix": "ion",
+    "className": "ion-fish-sharp",
+    "unicode": "&#60084;"
+  },
+  "fitness-sharp": {
+    "encodedCode": "\\eab5",
+    "prefix": "ion",
+    "className": "ion-fitness-sharp",
+    "unicode": "&#60085;"
+  },
+  "flag-sharp": {
+    "encodedCode": "\\eab6",
+    "prefix": "ion",
+    "className": "ion-flag-sharp",
+    "unicode": "&#60086;"
+  },
+  "flame-sharp": {
+    "encodedCode": "\\eab7",
+    "prefix": "ion",
+    "className": "ion-flame-sharp",
+    "unicode": "&#60087;"
+  },
+  "flash-off-sharp": {
+    "encodedCode": "\\eab8",
+    "prefix": "ion",
+    "className": "ion-flash-off-sharp",
+    "unicode": "&#60088;"
+  },
+  "flash-sharp": {
+    "encodedCode": "\\eab9",
+    "prefix": "ion",
+    "className": "ion-flash-sharp",
+    "unicode": "&#60089;"
+  },
+  "flashlight-sharp": {
+    "encodedCode": "\\eaba",
+    "prefix": "ion",
+    "className": "ion-flashlight-sharp",
+    "unicode": "&#60090;"
+  },
+  "flask-sharp": {
+    "encodedCode": "\\eabb",
+    "prefix": "ion",
+    "className": "ion-flask-sharp",
+    "unicode": "&#60091;"
+  },
+  "flower-sharp": {
+    "encodedCode": "\\eabc",
+    "prefix": "ion",
+    "className": "ion-flower-sharp",
+    "unicode": "&#60092;"
+  },
+  "folder-open-sharp": {
+    "encodedCode": "\\eabd",
+    "prefix": "ion",
+    "className": "ion-folder-open-sharp",
+    "unicode": "&#60093;"
+  },
+  "folder-sharp": {
+    "encodedCode": "\\eabe",
+    "prefix": "ion",
+    "className": "ion-folder-sharp",
+    "unicode": "&#60094;"
+  },
+  "football-sharp": {
+    "encodedCode": "\\eabf",
+    "prefix": "ion",
+    "className": "ion-football-sharp",
+    "unicode": "&#60095;"
+  },
+  "footsteps-sharp": {
+    "encodedCode": "\\eac0",
+    "prefix": "ion",
+    "className": "ion-footsteps-sharp",
+    "unicode": "&#60096;"
+  },
+  "funnel-sharp": {
+    "encodedCode": "\\eac1",
+    "prefix": "ion",
+    "className": "ion-funnel-sharp",
+    "unicode": "&#60097;"
+  },
+  "game-controller-sharp": {
+    "encodedCode": "\\eac2",
+    "prefix": "ion",
+    "className": "ion-game-controller-sharp",
+    "unicode": "&#60098;"
+  },
+  "gift-sharp": {
+    "encodedCode": "\\eac3",
+    "prefix": "ion",
+    "className": "ion-gift-sharp",
+    "unicode": "&#60099;"
+  },
+  "git-branch-sharp": {
+    "encodedCode": "\\eac4",
+    "prefix": "ion",
+    "className": "ion-git-branch-sharp",
+    "unicode": "&#60100;"
+  },
+  "git-commit-sharp": {
+    "encodedCode": "\\eac5",
+    "prefix": "ion",
+    "className": "ion-git-commit-sharp",
+    "unicode": "&#60101;"
+  },
+  "git-compare-sharp": {
+    "encodedCode": "\\eac6",
+    "prefix": "ion",
+    "className": "ion-git-compare-sharp",
+    "unicode": "&#60102;"
+  },
+  "git-merge-sharp": {
+    "encodedCode": "\\eac7",
+    "prefix": "ion",
+    "className": "ion-git-merge-sharp",
+    "unicode": "&#60103;"
+  },
+  "git-network-sharp": {
+    "encodedCode": "\\eac8",
+    "prefix": "ion",
+    "className": "ion-git-network-sharp",
+    "unicode": "&#60104;"
+  },
+  "git-pull-request-sharp": {
+    "encodedCode": "\\eac9",
+    "prefix": "ion",
+    "className": "ion-git-pull-request-sharp",
+    "unicode": "&#60105;"
+  },
+  "glasses-sharp": {
+    "encodedCode": "\\eaca",
+    "prefix": "ion",
+    "className": "ion-glasses-sharp",
+    "unicode": "&#60106;"
+  },
+  "globe-sharp": {
+    "encodedCode": "\\eacb",
+    "prefix": "ion",
+    "className": "ion-globe-sharp",
+    "unicode": "&#60107;"
+  },
+  "golf-sharp": {
+    "encodedCode": "\\eacc",
+    "prefix": "ion",
+    "className": "ion-golf-sharp",
+    "unicode": "&#60108;"
+  },
+  "grid-sharp": {
+    "encodedCode": "\\eacd",
+    "prefix": "ion",
+    "className": "ion-grid-sharp",
+    "unicode": "&#60109;"
+  },
+  "hammer-sharp": {
+    "encodedCode": "\\eace",
+    "prefix": "ion",
+    "className": "ion-hammer-sharp",
+    "unicode": "&#60110;"
+  },
+  "hand-left-sharp": {
+    "encodedCode": "\\eacf",
+    "prefix": "ion",
+    "className": "ion-hand-left-sharp",
+    "unicode": "&#60111;"
+  },
+  "hand-right-sharp": {
+    "encodedCode": "\\ead0",
+    "prefix": "ion",
+    "className": "ion-hand-right-sharp",
+    "unicode": "&#60112;"
+  },
+  "happy-sharp": {
+    "encodedCode": "\\ead1",
+    "prefix": "ion",
+    "className": "ion-happy-sharp",
+    "unicode": "&#60113;"
+  },
+  "hardware-chip-sharp": {
+    "encodedCode": "\\ead2",
+    "prefix": "ion",
+    "className": "ion-hardware-chip-sharp",
+    "unicode": "&#60114;"
+  },
+  "headset-sharp": {
+    "encodedCode": "\\ead3",
+    "prefix": "ion",
+    "className": "ion-headset-sharp",
+    "unicode": "&#60115;"
+  },
+  "heart-circle-sharp": {
+    "encodedCode": "\\ead4",
+    "prefix": "ion",
+    "className": "ion-heart-circle-sharp",
+    "unicode": "&#60116;"
+  },
+  "heart-dislike-circle-sharp": {
+    "encodedCode": "\\ead5",
+    "prefix": "ion",
+    "className": "ion-heart-dislike-circle-sharp",
+    "unicode": "&#60117;"
+  },
+  "heart-dislike-sharp": {
+    "encodedCode": "\\ead6",
+    "prefix": "ion",
+    "className": "ion-heart-dislike-sharp",
+    "unicode": "&#60118;"
+  },
+  "heart-half-sharp": {
+    "encodedCode": "\\ead7",
+    "prefix": "ion",
+    "className": "ion-heart-half-sharp",
+    "unicode": "&#60119;"
+  },
+  "heart-sharp": {
+    "encodedCode": "\\ead8",
+    "prefix": "ion",
+    "className": "ion-heart-sharp",
+    "unicode": "&#60120;"
+  },
+  "help-buoy-sharp": {
+    "encodedCode": "\\ead9",
+    "prefix": "ion",
+    "className": "ion-help-buoy-sharp",
+    "unicode": "&#60121;"
+  },
+  "help-circle-sharp": {
+    "encodedCode": "\\eada",
+    "prefix": "ion",
+    "className": "ion-help-circle-sharp",
+    "unicode": "&#60122;"
+  },
+  "help-sharp": {
+    "encodedCode": "\\eadb",
+    "prefix": "ion",
+    "className": "ion-help-sharp",
+    "unicode": "&#60123;"
+  },
+  "home-sharp": {
+    "encodedCode": "\\eadc",
+    "prefix": "ion",
+    "className": "ion-home-sharp",
+    "unicode": "&#60124;"
+  },
+  "hourglass-sharp": {
+    "encodedCode": "\\eadd",
+    "prefix": "ion",
+    "className": "ion-hourglass-sharp",
+    "unicode": "&#60125;"
+  },
+  "ice-cream-sharp": {
+    "encodedCode": "\\eade",
+    "prefix": "ion",
+    "className": "ion-ice-cream-sharp",
+    "unicode": "&#60126;"
+  },
+  "id-card-sharp": {
+    "encodedCode": "\\eadf",
+    "prefix": "ion",
+    "className": "ion-id-card-sharp",
+    "unicode": "&#60127;"
+  },
+  "image-sharp": {
+    "encodedCode": "\\eae0",
+    "prefix": "ion",
+    "className": "ion-image-sharp",
+    "unicode": "&#60128;"
+  },
+  "images-sharp": {
+    "encodedCode": "\\eae1",
+    "prefix": "ion",
+    "className": "ion-images-sharp",
+    "unicode": "&#60129;"
+  },
+  "infinite-sharp": {
+    "encodedCode": "\\eae2",
+    "prefix": "ion",
+    "className": "ion-infinite-sharp",
+    "unicode": "&#60130;"
+  },
+  "information-circle-sharp": {
+    "encodedCode": "\\eae3",
+    "prefix": "ion",
+    "className": "ion-information-circle-sharp",
+    "unicode": "&#60131;"
+  },
+  "information-sharp": {
+    "encodedCode": "\\eae4",
+    "prefix": "ion",
+    "className": "ion-information-sharp",
+    "unicode": "&#60132;"
+  },
+  "invert-mode-sharp": {
+    "encodedCode": "\\eae5",
+    "prefix": "ion",
+    "className": "ion-invert-mode-sharp",
+    "unicode": "&#60133;"
+  },
+  "journal-sharp": {
+    "encodedCode": "\\eae6",
+    "prefix": "ion",
+    "className": "ion-journal-sharp",
+    "unicode": "&#60134;"
+  },
+  "key-sharp": {
+    "encodedCode": "\\eae7",
+    "prefix": "ion",
+    "className": "ion-key-sharp",
+    "unicode": "&#60135;"
+  },
+  "keypad-sharp": {
+    "encodedCode": "\\eae8",
+    "prefix": "ion",
+    "className": "ion-keypad-sharp",
+    "unicode": "&#60136;"
+  },
+  "language-sharp": {
+    "encodedCode": "\\eae9",
+    "prefix": "ion",
+    "className": "ion-language-sharp",
+    "unicode": "&#60137;"
+  },
+  "laptop-sharp": {
+    "encodedCode": "\\eaea",
+    "prefix": "ion",
+    "className": "ion-laptop-sharp",
+    "unicode": "&#60138;"
+  },
+  "layers-sharp": {
+    "encodedCode": "\\eaeb",
+    "prefix": "ion",
+    "className": "ion-layers-sharp",
+    "unicode": "&#60139;"
+  },
+  "leaf-sharp": {
+    "encodedCode": "\\eaec",
+    "prefix": "ion",
+    "className": "ion-leaf-sharp",
+    "unicode": "&#60140;"
+  },
+  "library-sharp": {
+    "encodedCode": "\\eaed",
+    "prefix": "ion",
+    "className": "ion-library-sharp",
+    "unicode": "&#60141;"
+  },
+  "link-sharp": {
+    "encodedCode": "\\eaee",
+    "prefix": "ion",
+    "className": "ion-link-sharp",
+    "unicode": "&#60142;"
+  },
+  "list-circle-sharp": {
+    "encodedCode": "\\eaef",
+    "prefix": "ion",
+    "className": "ion-list-circle-sharp",
+    "unicode": "&#60143;"
+  },
+  "list-sharp": {
+    "encodedCode": "\\eaf0",
+    "prefix": "ion",
+    "className": "ion-list-sharp",
+    "unicode": "&#60144;"
+  },
+  "locate-sharp": {
+    "encodedCode": "\\eaf1",
+    "prefix": "ion",
+    "className": "ion-locate-sharp",
+    "unicode": "&#60145;"
+  },
+  "location-sharp": {
+    "encodedCode": "\\eaf2",
+    "prefix": "ion",
+    "className": "ion-location-sharp",
+    "unicode": "&#60146;"
+  },
+  "lock-closed-sharp": {
+    "encodedCode": "\\eaf3",
+    "prefix": "ion",
+    "className": "ion-lock-closed-sharp",
+    "unicode": "&#60147;"
+  },
+  "lock-open-sharp": {
+    "encodedCode": "\\eaf4",
+    "prefix": "ion",
+    "className": "ion-lock-open-sharp",
+    "unicode": "&#60148;"
+  },
+  "log-in-sharp": {
+    "encodedCode": "\\eaf5",
+    "prefix": "ion",
+    "className": "ion-log-in-sharp",
+    "unicode": "&#60149;"
+  },
+  "log-out-sharp": {
+    "encodedCode": "\\eaf6",
+    "prefix": "ion",
+    "className": "ion-log-out-sharp",
+    "unicode": "&#60150;"
+  },
+  "magnet-sharp": {
+    "encodedCode": "\\eaf7",
+    "prefix": "ion",
+    "className": "ion-magnet-sharp",
+    "unicode": "&#60151;"
+  },
+  "mail-open-sharp": {
+    "encodedCode": "\\eaf8",
+    "prefix": "ion",
+    "className": "ion-mail-open-sharp",
+    "unicode": "&#60152;"
+  },
+  "mail-sharp": {
+    "encodedCode": "\\eaf9",
+    "prefix": "ion",
+    "className": "ion-mail-sharp",
+    "unicode": "&#60153;"
+  },
+  "mail-unread-sharp": {
+    "encodedCode": "\\eafa",
+    "prefix": "ion",
+    "className": "ion-mail-unread-sharp",
+    "unicode": "&#60154;"
+  },
+  "male-female-sharp": {
+    "encodedCode": "\\eafb",
+    "prefix": "ion",
+    "className": "ion-male-female-sharp",
+    "unicode": "&#60155;"
+  },
+  "male-sharp": {
+    "encodedCode": "\\eafc",
+    "prefix": "ion",
+    "className": "ion-male-sharp",
+    "unicode": "&#60156;"
+  },
+  "man-sharp": {
+    "encodedCode": "\\eafd",
+    "prefix": "ion",
+    "className": "ion-man-sharp",
+    "unicode": "&#60157;"
+  },
+  "map-sharp": {
+    "encodedCode": "\\eafe",
+    "prefix": "ion",
+    "className": "ion-map-sharp",
+    "unicode": "&#60158;"
+  },
+  "medal-sharp": {
+    "encodedCode": "\\eaff",
+    "prefix": "ion",
+    "className": "ion-medal-sharp",
+    "unicode": "&#60159;"
+  },
+  "medical-sharp": {
+    "encodedCode": "\\eb00",
+    "prefix": "ion",
+    "className": "ion-medical-sharp",
+    "unicode": "&#60160;"
+  },
+  "medkit-sharp": {
+    "encodedCode": "\\eb01",
+    "prefix": "ion",
+    "className": "ion-medkit-sharp",
+    "unicode": "&#60161;"
+  },
+  "megaphone-sharp": {
+    "encodedCode": "\\eb02",
+    "prefix": "ion",
+    "className": "ion-megaphone-sharp",
+    "unicode": "&#60162;"
+  },
+  "menu-sharp": {
+    "encodedCode": "\\eb03",
+    "prefix": "ion",
+    "className": "ion-menu-sharp",
+    "unicode": "&#60163;"
+  },
+  "mic-circle-sharp": {
+    "encodedCode": "\\eb04",
+    "prefix": "ion",
+    "className": "ion-mic-circle-sharp",
+    "unicode": "&#60164;"
+  },
+  "mic-off-circle-sharp": {
+    "encodedCode": "\\eb05",
+    "prefix": "ion",
+    "className": "ion-mic-off-circle-sharp",
+    "unicode": "&#60165;"
+  },
+  "mic-off-sharp": {
+    "encodedCode": "\\eb06",
+    "prefix": "ion",
+    "className": "ion-mic-off-sharp",
+    "unicode": "&#60166;"
+  },
+  "mic-sharp": {
+    "encodedCode": "\\eb07",
+    "prefix": "ion",
+    "className": "ion-mic-sharp",
+    "unicode": "&#60167;"
+  },
+  "moon-sharp": {
+    "encodedCode": "\\eb08",
+    "prefix": "ion",
+    "className": "ion-moon-sharp",
+    "unicode": "&#60168;"
+  },
+  "move-sharp": {
+    "encodedCode": "\\eb09",
+    "prefix": "ion",
+    "className": "ion-move-sharp",
+    "unicode": "&#60169;"
+  },
+  "musical-note-sharp": {
+    "encodedCode": "\\eb0a",
+    "prefix": "ion",
+    "className": "ion-musical-note-sharp",
+    "unicode": "&#60170;"
+  },
+  "musical-notes-sharp": {
+    "encodedCode": "\\eb0b",
+    "prefix": "ion",
+    "className": "ion-musical-notes-sharp",
+    "unicode": "&#60171;"
+  },
+  "navigate-circle-sharp": {
+    "encodedCode": "\\eb0c",
+    "prefix": "ion",
+    "className": "ion-navigate-circle-sharp",
+    "unicode": "&#60172;"
+  },
+  "navigate-sharp": {
+    "encodedCode": "\\eb0d",
+    "prefix": "ion",
+    "className": "ion-navigate-sharp",
+    "unicode": "&#60173;"
+  },
+  "newspaper-sharp": {
+    "encodedCode": "\\eb0e",
+    "prefix": "ion",
+    "className": "ion-newspaper-sharp",
+    "unicode": "&#60174;"
+  },
+  "notifications-circle-sharp": {
+    "encodedCode": "\\eb0f",
+    "prefix": "ion",
+    "className": "ion-notifications-circle-sharp",
+    "unicode": "&#60175;"
+  },
+  "notifications-off-circle-sharp": {
+    "encodedCode": "\\eb10",
+    "prefix": "ion",
+    "className": "ion-notifications-off-circle-sharp",
+    "unicode": "&#60176;"
+  },
+  "notifications-off-sharp": {
+    "encodedCode": "\\eb11",
+    "prefix": "ion",
+    "className": "ion-notifications-off-sharp",
+    "unicode": "&#60177;"
+  },
+  "notifications-sharp": {
+    "encodedCode": "\\eb12",
+    "prefix": "ion",
+    "className": "ion-notifications-sharp",
+    "unicode": "&#60178;"
+  },
+  "nuclear-sharp": {
+    "encodedCode": "\\eb13",
+    "prefix": "ion",
+    "className": "ion-nuclear-sharp",
+    "unicode": "&#60179;"
+  },
+  "nutrition-sharp": {
+    "encodedCode": "\\eb14",
+    "prefix": "ion",
+    "className": "ion-nutrition-sharp",
+    "unicode": "&#60180;"
+  },
+  "open-sharp": {
+    "encodedCode": "\\eb15",
+    "prefix": "ion",
+    "className": "ion-open-sharp",
+    "unicode": "&#60181;"
+  },
+  "options-sharp": {
+    "encodedCode": "\\eb16",
+    "prefix": "ion",
+    "className": "ion-options-sharp",
+    "unicode": "&#60182;"
+  },
+  "paper-plane-sharp": {
+    "encodedCode": "\\eb17",
+    "prefix": "ion",
+    "className": "ion-paper-plane-sharp",
+    "unicode": "&#60183;"
+  },
+  "partly-sunny-sharp": {
+    "encodedCode": "\\eb18",
+    "prefix": "ion",
+    "className": "ion-partly-sunny-sharp",
+    "unicode": "&#60184;"
+  },
+  "pause-circle-sharp": {
+    "encodedCode": "\\eb19",
+    "prefix": "ion",
+    "className": "ion-pause-circle-sharp",
+    "unicode": "&#60185;"
+  },
+  "pause-sharp": {
+    "encodedCode": "\\eb1a",
+    "prefix": "ion",
+    "className": "ion-pause-sharp",
+    "unicode": "&#60186;"
+  },
+  "paw-sharp": {
+    "encodedCode": "\\eb1b",
+    "prefix": "ion",
+    "className": "ion-paw-sharp",
+    "unicode": "&#60187;"
+  },
+  "pencil-sharp": {
+    "encodedCode": "\\eb1c",
+    "prefix": "ion",
+    "className": "ion-pencil-sharp",
+    "unicode": "&#60188;"
+  },
+  "people-circle-sharp": {
+    "encodedCode": "\\eb1d",
+    "prefix": "ion",
+    "className": "ion-people-circle-sharp",
+    "unicode": "&#60189;"
+  },
+  "people-sharp": {
+    "encodedCode": "\\eb1e",
+    "prefix": "ion",
+    "className": "ion-people-sharp",
+    "unicode": "&#60190;"
+  },
+  "person-add-sharp": {
+    "encodedCode": "\\eb1f",
+    "prefix": "ion",
+    "className": "ion-person-add-sharp",
+    "unicode": "&#60191;"
+  },
+  "person-circle-sharp": {
+    "encodedCode": "\\eb20",
+    "prefix": "ion",
+    "className": "ion-person-circle-sharp",
+    "unicode": "&#60192;"
+  },
+  "person-remove-sharp": {
+    "encodedCode": "\\eb21",
+    "prefix": "ion",
+    "className": "ion-person-remove-sharp",
+    "unicode": "&#60193;"
+  },
+  "person-sharp": {
+    "encodedCode": "\\eb22",
+    "prefix": "ion",
+    "className": "ion-person-sharp",
+    "unicode": "&#60194;"
+  },
+  "phone-landscape-sharp": {
+    "encodedCode": "\\eb23",
+    "prefix": "ion",
+    "className": "ion-phone-landscape-sharp",
+    "unicode": "&#60195;"
+  },
+  "phone-portrait-sharp": {
+    "encodedCode": "\\eb24",
+    "prefix": "ion",
+    "className": "ion-phone-portrait-sharp",
+    "unicode": "&#60196;"
+  },
+  "pie-chart-sharp": {
+    "encodedCode": "\\eb25",
+    "prefix": "ion",
+    "className": "ion-pie-chart-sharp",
+    "unicode": "&#60197;"
+  },
+  "pin-sharp": {
+    "encodedCode": "\\eb26",
+    "prefix": "ion",
+    "className": "ion-pin-sharp",
+    "unicode": "&#60198;"
+  },
+  "pint-sharp": {
+    "encodedCode": "\\eb27",
+    "prefix": "ion",
+    "className": "ion-pint-sharp",
+    "unicode": "&#60199;"
+  },
+  "pizza-sharp": {
+    "encodedCode": "\\eb28",
+    "prefix": "ion",
+    "className": "ion-pizza-sharp",
+    "unicode": "&#60200;"
+  },
+  "planet-sharp": {
+    "encodedCode": "\\eb29",
+    "prefix": "ion",
+    "className": "ion-planet-sharp",
+    "unicode": "&#60201;"
+  },
+  "play-back-circle-sharp": {
+    "encodedCode": "\\eb2a",
+    "prefix": "ion",
+    "className": "ion-play-back-circle-sharp",
+    "unicode": "&#60202;"
+  },
+  "play-back-sharp": {
+    "encodedCode": "\\eb2b",
+    "prefix": "ion",
+    "className": "ion-play-back-sharp",
+    "unicode": "&#60203;"
+  },
+  "play-circle-sharp": {
+    "encodedCode": "\\eb2c",
+    "prefix": "ion",
+    "className": "ion-play-circle-sharp",
+    "unicode": "&#60204;"
+  },
+  "play-forward-circle-sharp": {
+    "encodedCode": "\\eb2d",
+    "prefix": "ion",
+    "className": "ion-play-forward-circle-sharp",
+    "unicode": "&#60205;"
+  },
+  "play-forward-sharp": {
+    "encodedCode": "\\eb2e",
+    "prefix": "ion",
+    "className": "ion-play-forward-sharp",
+    "unicode": "&#60206;"
+  },
+  "play-sharp": {
+    "encodedCode": "\\eb2f",
+    "prefix": "ion",
+    "className": "ion-play-sharp",
+    "unicode": "&#60207;"
+  },
+  "play-skip-back-circle-sharp": {
+    "encodedCode": "\\eb30",
+    "prefix": "ion",
+    "className": "ion-play-skip-back-circle-sharp",
+    "unicode": "&#60208;"
+  },
+  "play-skip-back-sharp": {
+    "encodedCode": "\\eb31",
+    "prefix": "ion",
+    "className": "ion-play-skip-back-sharp",
+    "unicode": "&#60209;"
+  },
+  "play-skip-forward-circle-sharp": {
+    "encodedCode": "\\eb32",
+    "prefix": "ion",
+    "className": "ion-play-skip-forward-circle-sharp",
+    "unicode": "&#60210;"
+  },
+  "play-skip-forward-sharp": {
+    "encodedCode": "\\eb33",
+    "prefix": "ion",
+    "className": "ion-play-skip-forward-sharp",
+    "unicode": "&#60211;"
+  },
+  "podium-sharp": {
+    "encodedCode": "\\eb34",
+    "prefix": "ion",
+    "className": "ion-podium-sharp",
+    "unicode": "&#60212;"
+  },
+  "power-sharp": {
+    "encodedCode": "\\eb35",
+    "prefix": "ion",
+    "className": "ion-power-sharp",
+    "unicode": "&#60213;"
+  },
+  "pricetag-sharp": {
+    "encodedCode": "\\eb36",
+    "prefix": "ion",
+    "className": "ion-pricetag-sharp",
+    "unicode": "&#60214;"
+  },
+  "pricetags-sharp": {
+    "encodedCode": "\\eb37",
+    "prefix": "ion",
+    "className": "ion-pricetags-sharp",
+    "unicode": "&#60215;"
+  },
+  "print-sharp": {
+    "encodedCode": "\\eb38",
+    "prefix": "ion",
+    "className": "ion-print-sharp",
+    "unicode": "&#60216;"
+  },
+  "prism-sharp": {
+    "encodedCode": "\\eb39",
+    "prefix": "ion",
+    "className": "ion-prism-sharp",
+    "unicode": "&#60217;"
+  },
+  "pulse-sharp": {
+    "encodedCode": "\\eb3a",
+    "prefix": "ion",
+    "className": "ion-pulse-sharp",
+    "unicode": "&#60218;"
+  },
+  "push-sharp": {
+    "encodedCode": "\\eb3b",
+    "prefix": "ion",
+    "className": "ion-push-sharp",
+    "unicode": "&#60219;"
+  },
+  "qr-code-sharp": {
+    "encodedCode": "\\eb3c",
+    "prefix": "ion",
+    "className": "ion-qr-code-sharp",
+    "unicode": "&#60220;"
+  },
+  "radio-button-off-sharp": {
+    "encodedCode": "\\eb3d",
+    "prefix": "ion",
+    "className": "ion-radio-button-off-sharp",
+    "unicode": "&#60221;"
+  },
+  "radio-button-on-sharp": {
+    "encodedCode": "\\eb3e",
+    "prefix": "ion",
+    "className": "ion-radio-button-on-sharp",
+    "unicode": "&#60222;"
+  },
+  "radio-sharp": {
+    "encodedCode": "\\eb3f",
+    "prefix": "ion",
+    "className": "ion-radio-sharp",
+    "unicode": "&#60223;"
+  },
+  "rainy-sharp": {
+    "encodedCode": "\\eb40",
+    "prefix": "ion",
+    "className": "ion-rainy-sharp",
+    "unicode": "&#60224;"
+  },
+  "reader-sharp": {
+    "encodedCode": "\\eb41",
+    "prefix": "ion",
+    "className": "ion-reader-sharp",
+    "unicode": "&#60225;"
+  },
+  "receipt-sharp": {
+    "encodedCode": "\\eb42",
+    "prefix": "ion",
+    "className": "ion-receipt-sharp",
+    "unicode": "&#60226;"
+  },
+  "recording-sharp": {
+    "encodedCode": "\\eb43",
+    "prefix": "ion",
+    "className": "ion-recording-sharp",
+    "unicode": "&#60227;"
+  },
+  "refresh-circle-sharp": {
+    "encodedCode": "\\eb44",
+    "prefix": "ion",
+    "className": "ion-refresh-circle-sharp",
+    "unicode": "&#60228;"
+  },
+  "refresh-sharp": {
+    "encodedCode": "\\eb45",
+    "prefix": "ion",
+    "className": "ion-refresh-sharp",
+    "unicode": "&#60229;"
+  },
+  "reload-circle-sharp": {
+    "encodedCode": "\\eb46",
+    "prefix": "ion",
+    "className": "ion-reload-circle-sharp",
+    "unicode": "&#60230;"
+  },
+  "reload-sharp": {
+    "encodedCode": "\\eb47",
+    "prefix": "ion",
+    "className": "ion-reload-sharp",
+    "unicode": "&#60231;"
+  },
+  "remove-circle-sharp": {
+    "encodedCode": "\\eb48",
+    "prefix": "ion",
+    "className": "ion-remove-circle-sharp",
+    "unicode": "&#60232;"
+  },
+  "remove-sharp": {
+    "encodedCode": "\\eb49",
+    "prefix": "ion",
+    "className": "ion-remove-sharp",
+    "unicode": "&#60233;"
+  },
+  "reorder-four-sharp": {
+    "encodedCode": "\\eb4a",
+    "prefix": "ion",
+    "className": "ion-reorder-four-sharp",
+    "unicode": "&#60234;"
+  },
+  "reorder-three-sharp": {
+    "encodedCode": "\\eb4b",
+    "prefix": "ion",
+    "className": "ion-reorder-three-sharp",
+    "unicode": "&#60235;"
+  },
+  "reorder-two-sharp": {
+    "encodedCode": "\\eb4c",
+    "prefix": "ion",
+    "className": "ion-reorder-two-sharp",
+    "unicode": "&#60236;"
+  },
+  "repeat-sharp": {
+    "encodedCode": "\\eb4d",
+    "prefix": "ion",
+    "className": "ion-repeat-sharp",
+    "unicode": "&#60237;"
+  },
+  "resize-sharp": {
+    "encodedCode": "\\eb4e",
+    "prefix": "ion",
+    "className": "ion-resize-sharp",
+    "unicode": "&#60238;"
+  },
+  "restaurant-sharp": {
+    "encodedCode": "\\eb4f",
+    "prefix": "ion",
+    "className": "ion-restaurant-sharp",
+    "unicode": "&#60239;"
+  },
+  "return-down-back-sharp": {
+    "encodedCode": "\\eb50",
+    "prefix": "ion",
+    "className": "ion-return-down-back-sharp",
+    "unicode": "&#60240;"
+  },
+  "return-down-forward-sharp": {
+    "encodedCode": "\\eb51",
+    "prefix": "ion",
+    "className": "ion-return-down-forward-sharp",
+    "unicode": "&#60241;"
+  },
+  "return-up-back-sharp": {
+    "encodedCode": "\\eb52",
+    "prefix": "ion",
+    "className": "ion-return-up-back-sharp",
+    "unicode": "&#60242;"
+  },
+  "return-up-forward-sharp": {
+    "encodedCode": "\\eb53",
+    "prefix": "ion",
+    "className": "ion-return-up-forward-sharp",
+    "unicode": "&#60243;"
+  },
+  "ribbon-sharp": {
+    "encodedCode": "\\eb54",
+    "prefix": "ion",
+    "className": "ion-ribbon-sharp",
+    "unicode": "&#60244;"
+  },
+  "rocket-sharp": {
+    "encodedCode": "\\eb55",
+    "prefix": "ion",
+    "className": "ion-rocket-sharp",
+    "unicode": "&#60245;"
+  },
+  "rose-sharp": {
+    "encodedCode": "\\eb56",
+    "prefix": "ion",
+    "className": "ion-rose-sharp",
+    "unicode": "&#60246;"
+  },
+  "sad-sharp": {
+    "encodedCode": "\\eb57",
+    "prefix": "ion",
+    "className": "ion-sad-sharp",
+    "unicode": "&#60247;"
+  },
+  "save-sharp": {
+    "encodedCode": "\\eb58",
+    "prefix": "ion",
+    "className": "ion-save-sharp",
+    "unicode": "&#60248;"
+  },
+  "scale-sharp": {
+    "encodedCode": "\\eb59",
+    "prefix": "ion",
+    "className": "ion-scale-sharp",
+    "unicode": "&#60249;"
+  },
+  "scan-circle-sharp": {
+    "encodedCode": "\\eb5a",
+    "prefix": "ion",
+    "className": "ion-scan-circle-sharp",
+    "unicode": "&#60250;"
+  },
+  "scan-sharp": {
+    "encodedCode": "\\eb5b",
+    "prefix": "ion",
+    "className": "ion-scan-sharp",
+    "unicode": "&#60251;"
+  },
+  "school-sharp": {
+    "encodedCode": "\\eb5c",
+    "prefix": "ion",
+    "className": "ion-school-sharp",
+    "unicode": "&#60252;"
+  },
+  "search-circle-sharp": {
+    "encodedCode": "\\eb5d",
+    "prefix": "ion",
+    "className": "ion-search-circle-sharp",
+    "unicode": "&#60253;"
+  },
+  "search-sharp": {
+    "encodedCode": "\\eb5e",
+    "prefix": "ion",
+    "className": "ion-search-sharp",
+    "unicode": "&#60254;"
+  },
+  "send-sharp": {
+    "encodedCode": "\\eb5f",
+    "prefix": "ion",
+    "className": "ion-send-sharp",
+    "unicode": "&#60255;"
+  },
+  "server-sharp": {
+    "encodedCode": "\\eb60",
+    "prefix": "ion",
+    "className": "ion-server-sharp",
+    "unicode": "&#60256;"
+  },
+  "settings-sharp": {
+    "encodedCode": "\\eb61",
+    "prefix": "ion",
+    "className": "ion-settings-sharp",
+    "unicode": "&#60257;"
+  },
+  "shapes-sharp": {
+    "encodedCode": "\\eb62",
+    "prefix": "ion",
+    "className": "ion-shapes-sharp",
+    "unicode": "&#60258;"
+  },
+  "share-sharp": {
+    "encodedCode": "\\eb63",
+    "prefix": "ion",
+    "className": "ion-share-sharp",
+    "unicode": "&#60259;"
+  },
+  "share-social-sharp": {
+    "encodedCode": "\\eb64",
+    "prefix": "ion",
+    "className": "ion-share-social-sharp",
+    "unicode": "&#60260;"
+  },
+  "shield-checkmark-sharp": {
+    "encodedCode": "\\eb65",
+    "prefix": "ion",
+    "className": "ion-shield-checkmark-sharp",
+    "unicode": "&#60261;"
+  },
+  "shield-half-sharp": {
+    "encodedCode": "\\eb66",
+    "prefix": "ion",
+    "className": "ion-shield-half-sharp",
+    "unicode": "&#60262;"
+  },
+  "shield-sharp": {
+    "encodedCode": "\\eb67",
+    "prefix": "ion",
+    "className": "ion-shield-sharp",
+    "unicode": "&#60263;"
+  },
+  "shirt-sharp": {
+    "encodedCode": "\\eb68",
+    "prefix": "ion",
+    "className": "ion-shirt-sharp",
+    "unicode": "&#60264;"
+  },
+  "shuffle-sharp": {
+    "encodedCode": "\\eb69",
+    "prefix": "ion",
+    "className": "ion-shuffle-sharp",
+    "unicode": "&#60265;"
+  },
+  "skull-sharp": {
+    "encodedCode": "\\eb6a",
+    "prefix": "ion",
+    "className": "ion-skull-sharp",
+    "unicode": "&#60266;"
+  },
+  "snow-sharp": {
+    "encodedCode": "\\eb6b",
+    "prefix": "ion",
+    "className": "ion-snow-sharp",
+    "unicode": "&#60267;"
+  },
+  "sparkles-sharp": {
+    "encodedCode": "\\eb6c",
+    "prefix": "ion",
+    "className": "ion-sparkles-sharp",
+    "unicode": "&#60268;"
+  },
+  "speedometer-sharp": {
+    "encodedCode": "\\eb6d",
+    "prefix": "ion",
+    "className": "ion-speedometer-sharp",
+    "unicode": "&#60269;"
+  },
+  "square-sharp": {
+    "encodedCode": "\\eb6e",
+    "prefix": "ion",
+    "className": "ion-square-sharp",
+    "unicode": "&#60270;"
+  },
+  "star-half-sharp": {
+    "encodedCode": "\\eb6f",
+    "prefix": "ion",
+    "className": "ion-star-half-sharp",
+    "unicode": "&#60271;"
+  },
+  "star-sharp": {
+    "encodedCode": "\\eb70",
+    "prefix": "ion",
+    "className": "ion-star-sharp",
+    "unicode": "&#60272;"
+  },
+  "stats-chart-sharp": {
+    "encodedCode": "\\eb71",
+    "prefix": "ion",
+    "className": "ion-stats-chart-sharp",
+    "unicode": "&#60273;"
+  },
+  "stop-circle-sharp": {
+    "encodedCode": "\\eb72",
+    "prefix": "ion",
+    "className": "ion-stop-circle-sharp",
+    "unicode": "&#60274;"
+  },
+  "stop-sharp": {
+    "encodedCode": "\\eb73",
+    "prefix": "ion",
+    "className": "ion-stop-sharp",
+    "unicode": "&#60275;"
+  },
+  "stopwatch-sharp": {
+    "encodedCode": "\\eb74",
+    "prefix": "ion",
+    "className": "ion-stopwatch-sharp",
+    "unicode": "&#60276;"
+  },
+  "storefront-sharp": {
+    "encodedCode": "\\eb75",
+    "prefix": "ion",
+    "className": "ion-storefront-sharp",
+    "unicode": "&#60277;"
+  },
+  "subway-sharp": {
+    "encodedCode": "\\eb76",
+    "prefix": "ion",
+    "className": "ion-subway-sharp",
+    "unicode": "&#60278;"
+  },
+  "sunny-sharp": {
+    "encodedCode": "\\eb77",
+    "prefix": "ion",
+    "className": "ion-sunny-sharp",
+    "unicode": "&#60279;"
+  },
+  "swap-horizontal-sharp": {
+    "encodedCode": "\\eb78",
+    "prefix": "ion",
+    "className": "ion-swap-horizontal-sharp",
+    "unicode": "&#60280;"
+  },
+  "swap-vertical-sharp": {
+    "encodedCode": "\\eb79",
+    "prefix": "ion",
+    "className": "ion-swap-vertical-sharp",
+    "unicode": "&#60281;"
+  },
+  "sync-circle-sharp": {
+    "encodedCode": "\\eb7a",
+    "prefix": "ion",
+    "className": "ion-sync-circle-sharp",
+    "unicode": "&#60282;"
+  },
+  "sync-sharp": {
+    "encodedCode": "\\eb7b",
+    "prefix": "ion",
+    "className": "ion-sync-sharp",
+    "unicode": "&#60283;"
+  },
+  "tablet-landscape-sharp": {
+    "encodedCode": "\\eb7c",
+    "prefix": "ion",
+    "className": "ion-tablet-landscape-sharp",
+    "unicode": "&#60284;"
+  },
+  "tablet-portrait-sharp": {
+    "encodedCode": "\\eb7d",
+    "prefix": "ion",
+    "className": "ion-tablet-portrait-sharp",
+    "unicode": "&#60285;"
+  },
+  "telescope-sharp": {
+    "encodedCode": "\\eb7e",
+    "prefix": "ion",
+    "className": "ion-telescope-sharp",
+    "unicode": "&#60286;"
+  },
+  "tennisball-sharp": {
+    "encodedCode": "\\eb7f",
+    "prefix": "ion",
+    "className": "ion-tennisball-sharp",
+    "unicode": "&#60287;"
+  },
+  "terminal-sharp": {
+    "encodedCode": "\\eb80",
+    "prefix": "ion",
+    "className": "ion-terminal-sharp",
+    "unicode": "&#60288;"
+  },
+  "text-sharp": {
+    "encodedCode": "\\eb81",
+    "prefix": "ion",
+    "className": "ion-text-sharp",
+    "unicode": "&#60289;"
+  },
+  "thermometer-sharp": {
+    "encodedCode": "\\eb82",
+    "prefix": "ion",
+    "className": "ion-thermometer-sharp",
+    "unicode": "&#60290;"
+  },
+  "thumbs-down-sharp": {
+    "encodedCode": "\\eb83",
+    "prefix": "ion",
+    "className": "ion-thumbs-down-sharp",
+    "unicode": "&#60291;"
+  },
+  "thumbs-up-sharp": {
+    "encodedCode": "\\eb84",
+    "prefix": "ion",
+    "className": "ion-thumbs-up-sharp",
+    "unicode": "&#60292;"
+  },
+  "thunderstorm-sharp": {
+    "encodedCode": "\\eb85",
+    "prefix": "ion",
+    "className": "ion-thunderstorm-sharp",
+    "unicode": "&#60293;"
+  },
+  "ticket-sharp": {
+    "encodedCode": "\\eb86",
+    "prefix": "ion",
+    "className": "ion-ticket-sharp",
+    "unicode": "&#60294;"
+  },
+  "time-sharp": {
+    "encodedCode": "\\eb87",
+    "prefix": "ion",
+    "className": "ion-time-sharp",
+    "unicode": "&#60295;"
+  },
+  "timer-sharp": {
+    "encodedCode": "\\eb88",
+    "prefix": "ion",
+    "className": "ion-timer-sharp",
+    "unicode": "&#60296;"
+  },
+  "today-sharp": {
+    "encodedCode": "\\eb89",
+    "prefix": "ion",
+    "className": "ion-today-sharp",
+    "unicode": "&#60297;"
+  },
+  "toggle-sharp": {
+    "encodedCode": "\\eb8a",
+    "prefix": "ion",
+    "className": "ion-toggle-sharp",
+    "unicode": "&#60298;"
+  },
+  "trail-sign-sharp": {
+    "encodedCode": "\\eb8b",
+    "prefix": "ion",
+    "className": "ion-trail-sign-sharp",
+    "unicode": "&#60299;"
+  },
+  "train-sharp": {
+    "encodedCode": "\\eb8c",
+    "prefix": "ion",
+    "className": "ion-train-sharp",
+    "unicode": "&#60300;"
+  },
+  "transgender-sharp": {
+    "encodedCode": "\\eb8d",
+    "prefix": "ion",
+    "className": "ion-transgender-sharp",
+    "unicode": "&#60301;"
+  },
+  "trash-bin-sharp": {
+    "encodedCode": "\\eb8e",
+    "prefix": "ion",
+    "className": "ion-trash-bin-sharp",
+    "unicode": "&#60302;"
+  },
+  "trash-sharp": {
+    "encodedCode": "\\eb8f",
+    "prefix": "ion",
+    "className": "ion-trash-sharp",
+    "unicode": "&#60303;"
+  },
+  "trending-down-sharp": {
+    "encodedCode": "\\eb90",
+    "prefix": "ion",
+    "className": "ion-trending-down-sharp",
+    "unicode": "&#60304;"
+  },
+  "trending-up-sharp": {
+    "encodedCode": "\\eb91",
+    "prefix": "ion",
+    "className": "ion-trending-up-sharp",
+    "unicode": "&#60305;"
+  },
+  "triangle-sharp": {
+    "encodedCode": "\\eb92",
+    "prefix": "ion",
+    "className": "ion-triangle-sharp",
+    "unicode": "&#60306;"
+  },
+  "trophy-sharp": {
+    "encodedCode": "\\eb93",
+    "prefix": "ion",
+    "className": "ion-trophy-sharp",
+    "unicode": "&#60307;"
+  },
+  "tv-sharp": {
+    "encodedCode": "\\eb94",
+    "prefix": "ion",
+    "className": "ion-tv-sharp",
+    "unicode": "&#60308;"
+  },
+  "umbrella-sharp": {
+    "encodedCode": "\\eb95",
+    "prefix": "ion",
+    "className": "ion-umbrella-sharp",
+    "unicode": "&#60309;"
+  },
+  "unlink-sharp": {
+    "encodedCode": "\\eb96",
+    "prefix": "ion",
+    "className": "ion-unlink-sharp",
+    "unicode": "&#60310;"
+  },
+  "videocam-off-sharp": {
+    "encodedCode": "\\eb97",
+    "prefix": "ion",
+    "className": "ion-videocam-off-sharp",
+    "unicode": "&#60311;"
+  },
+  "videocam-sharp": {
+    "encodedCode": "\\eb98",
+    "prefix": "ion",
+    "className": "ion-videocam-sharp",
+    "unicode": "&#60312;"
+  },
+  "volume-high-sharp": {
+    "encodedCode": "\\eb99",
+    "prefix": "ion",
+    "className": "ion-volume-high-sharp",
+    "unicode": "&#60313;"
+  },
+  "volume-low-sharp": {
+    "encodedCode": "\\eb9a",
+    "prefix": "ion",
+    "className": "ion-volume-low-sharp",
+    "unicode": "&#60314;"
+  },
+  "volume-medium-sharp": {
+    "encodedCode": "\\eb9b",
+    "prefix": "ion",
+    "className": "ion-volume-medium-sharp",
+    "unicode": "&#60315;"
+  },
+  "volume-mute-sharp": {
+    "encodedCode": "\\eb9c",
+    "prefix": "ion",
+    "className": "ion-volume-mute-sharp",
+    "unicode": "&#60316;"
+  },
+  "volume-off-sharp": {
+    "encodedCode": "\\eb9d",
+    "prefix": "ion",
+    "className": "ion-volume-off-sharp",
+    "unicode": "&#60317;"
+  },
+  "walk-sharp": {
+    "encodedCode": "\\eb9e",
+    "prefix": "ion",
+    "className": "ion-walk-sharp",
+    "unicode": "&#60318;"
+  },
+  "wallet-sharp": {
+    "encodedCode": "\\eb9f",
+    "prefix": "ion",
+    "className": "ion-wallet-sharp",
+    "unicode": "&#60319;"
+  },
+  "warning-sharp": {
+    "encodedCode": "\\eba0",
+    "prefix": "ion",
+    "className": "ion-warning-sharp",
+    "unicode": "&#60320;"
+  },
+  "watch-sharp": {
+    "encodedCode": "\\eba1",
+    "prefix": "ion",
+    "className": "ion-watch-sharp",
+    "unicode": "&#60321;"
+  },
+  "water-sharp": {
+    "encodedCode": "\\eba2",
+    "prefix": "ion",
+    "className": "ion-water-sharp",
+    "unicode": "&#60322;"
+  },
+  "wifi-sharp": {
+    "encodedCode": "\\eba3",
+    "prefix": "ion",
+    "className": "ion-wifi-sharp",
+    "unicode": "&#60323;"
+  },
+  "wine-sharp": {
+    "encodedCode": "\\eba4",
+    "prefix": "ion",
+    "className": "ion-wine-sharp",
+    "unicode": "&#60324;"
+  },
+  "woman-sharp": {
+    "encodedCode": "\\eba5",
+    "prefix": "ion",
+    "className": "ion-woman-sharp",
+    "unicode": "&#60325;"
+  }
+}
