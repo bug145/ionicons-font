@@ -2,7 +2,7 @@
   "name": "ionicons-font",
   "version": "1.0.0",
   "description": "Use ionicons as font",
-  "main": "assets/all/ionicons.css",
+  "main": "dist/all/ionicons.css",
   "scripts": {
     "convert": "node --experimental-specifier-resolution=node bin/convert.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
